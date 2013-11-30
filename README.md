@@ -12,7 +12,7 @@ Learn more about ExTexGen : http://www.lilinx.com/extexgen/
 
 ExTexGen is case unsensitive and plays only with a fixed set of 21 characters (all letters).
 
-This repository hosts two different scripts :
+This repository hosts two different example scripts :
 
 ExTexGen1.py (method 1)
 ------------------------
